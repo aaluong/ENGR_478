@@ -137,7 +137,7 @@ main(void)
     //
     // Hello!
     //
-    UARTprintf("What's up world!\n");
+    UARTprintf("What's up world!\n"); // changed message
 
     //
     // We are finished.  Hang around doing nothing.
